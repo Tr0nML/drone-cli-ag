@@ -33,4 +33,4 @@ Create your pull request for the release. Get it merged then tag the release.
 
 [Events](https://www.meetup.com/harness/) - Keep up to date with Drone events and check out previous events [here](https://www.youtube.com/watch?v=Oq34ImUGcHA&list=PLXsYHFsLmqf3zwelQDAKoVNmLeqcVsD9o).
 
-.
+..
